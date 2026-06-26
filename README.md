@@ -1,7 +1,5 @@
 # InterCampus
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 Full-stack internship management platform built with Express.js (backend) and React + Vite (frontend). Connects students with companies for internship opportunities.
 
 ## Features
@@ -260,35 +258,20 @@ Run `npm run init-db` in the backend folder to set up everything automatically.
 - Check browser console for authentication errors
 - Try logging out and logging in again
 
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ### Citation
 
 If you use this project in your academic work, please cite it as:
 
 ```
 InterCampus - Internship Management Platform
-Repository: https://github.com/zewo2/InterCampus-PAWA
+Repository: https://github.com/zewo2/InterCampus
 Year: 2025
 ```
 
 ## Authors
 
-Academic project developed at ISTEC for the PAWA course.
+Academic project developed for the PAWA course.
 
 ## Acknowledgments
 
-- ISTEC faculty and staff
 - Open-source community for libraries and tools used in this project
